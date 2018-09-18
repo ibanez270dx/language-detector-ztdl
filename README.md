@@ -2,6 +2,8 @@
 
 Hosted on [Heroku](https://language-detector.herokuapp.com/).
 
+Mine: https://language-detector-ztdl.herokuapp.com/
+
 This is a simple Flask app that will predict the language of a sentence using sci-kit Learn.
 
 ## Steps
